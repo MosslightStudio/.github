@@ -3,7 +3,5 @@
 Learning programming one step forward, two steps back, at a time
 </p>
 <div align="center">
-  <a href="https://mosslightstudio.com/">🌐 Website<a>
-  |
-  <a href="https://discord.gg/amethyst">⌨ Game<a>
+  <a href="https://mosslightstudio.com/">🌐 Website</a>
 </div>
